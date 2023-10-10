@@ -1,0 +1,103 @@
+
+
+
+/*////////////////////////////////////////////////////////////////////////////////
+//																				//
+//									UpWords										//
+//																				//
+//		SCRITTO DA		:	© Riccardo Campi									//
+//																				//
+//		DATA INIZIO		:	03/12/2017											//
+//																				//
+//		DATA FINE		:	00/00/2017											//
+//																				//
+//		LIBRERIE		:	OpenGl - Open Graphics Library						//
+//							FreeGlut - Free OpenGl Utility Tookit				//
+//							M.B. Comp. - Proprietario Marchio UpWords (1997)	//
+//																				//
+////////////////////////////////////////////////////////////////////////////////*/
+
+
+
+/*////////////////////////////////////////////////////////////////////////////////
+//						DEFINIZIONI E INCLUSIONI HEADERS						//
+//								© Riccardo Campi								//
+////////////////////////////////////////////////////////////////////////////////*/
+
+#include <windows.h>
+#include "header.h"
+
+
+
+/*////////////////////////////////////////////////////////////////////////////////
+//						DEFINIZIONE LINGUAGGIO APPLICAZIONE						//
+//								© Riccardo Campi								//
+////////////////////////////////////////////////////////////////////////////////*/
+
+LANGUAGE LANG_ITALIAN, LANG_NEUTRAL
+
+
+
+/*////////////////////////////////////////////////////////////////////////////////
+//				INCLUSIONE RiSORSE ALl'INTERNO DELL'APPLICAZIONE				//
+//								© Riccardo Campi								//
+////////////////////////////////////////////////////////////////////////////////*/
+
+///// ICONA PRINCIPALE
+IDI_MAIN				ICON				"UpWords.ico"
+
+///// IMMAGINI SFONDO BARRA DEL TITOLO
+IDI_WIND1				RCDATA				"res/wind1.jpg"
+IDI_WIND2				RCDATA				"res/wind2.jpg"
+IDI_WIND3				RCDATA				"res/wind3.jpg"
+
+///// IMMAGINI SFONDO FINESTRE
+IDI_BACK1				RCDATA				"res/back1.jpg"
+IDI_BACK2				RCDATA				"res/back2.jpg"
+IDI_BACK3				RCDATA				"res/back3.jpg"
+IDI_BACK4				RCDATA				"res/back4.jpg"
+IDI_BACK5				RCDATA				"res/back5.jpg"
+IDI_BACK6				RCDATA				"res/back6.jpg"
+IDI_BACK7				RCDATA				"res/back7.jpg"
+IDI_BACK8				RCDATA				"res/back8.jpg"
+IDI_BACK9				RCDATA				"res/back9.jpg"
+IDI_BACK10				RCDATA				"res/back10.jpg"
+
+///// IMMAGINE SFONDO FINESTRA DI CARICAMENTO
+IDI_ATT1				RCDATA				"res/att1.jpg"
+
+////// TEXTURE PER SCACCHIERA, RASTRELLIERA E TESSERE
+IDI_TEX1				RCDATA				"res/tex1.jpg"
+IDI_TEX2				RCDATA				"res/tex2.jpg"
+IDI_TEX3				RCDATA				"res/tex3.jpg"
+IDI_TEX4				RCDATA				"res/tex4.jpg"
+IDI_TEX5				RCDATA				"res/tex5.jpg"
+IDI_TEX6				RCDATA				"res/tex6.jpg"
+
+///// FILE CONTENENTE IL VOCABOLARIO
+IDI_VOCABOLARIO			RCDATA				"res/words_italian.dat"
+
+///// SUONI DI AVVIO E CLICK
+IDI_WAV1				WAVE				"res/avvio.wav"
+IDI_WAV2				WAVE				"res/click.wav"
+
+
+
+/*////////////////////////////////////////////////////////////////////////////////
+//																				//
+//									UpWords										//
+//																				//
+//		SCRITTO DA		:	© Riccardo Campi									//
+//																				//
+//		DATA INIZIO		:	03/12/2017											//
+//																				//
+//		DATA FINE		:	00/00/2017											//
+//																				//
+//		LIBRERIE		:	OpenGl - Open Graphics Library						//
+//							FreeGlut - Free OpenGl Utility Tookit				//
+//							M.B. Comp. - Proprietario Marchio UpWords (1997)	//
+//																				//
+////////////////////////////////////////////////////////////////////////////////*/
+
+
+
